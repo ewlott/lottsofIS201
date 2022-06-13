@@ -1,0 +1,23 @@
+
+.center {
+    text-align: center;
+}
+.pink {
+    color: rgb(231, 63, 91);
+}
+.orange {
+    color: orangered;
+}
+.blue{
+    color: rgb(6, 124, 85);
+}
+.dotted {
+    text-decoration: underline
+}
+.thin{
+    font-weight: lighter;
+}
+.green{
+    color: rgb(3, 113, 25);
+}
+
